@@ -20,29 +20,51 @@ the one you've just downloaded:  **MapTool**.
 
 #. **MapTool** - virtual tabletop gaming application
 
-	**MapTool** is an online, multiplayer, programmable, interactive, and cross-platform application that allows collaborative gaming such as role-playing games, boardgames, card games, dice games, and much more.
-	
-	It has been translated into many languages and new translations are submitted by our users all the time.  As of this writing the included languages are English (the primary one), Spanish, French, German, Italian, Japanese, Polish, Russian, and Chinese.
+	**MapTool** is an online, multiplayer, programmable, interactive, and
+	cross-platform application that allows collaborative gaming such as
+	role-playing games, boardgames, card games, dice games, and much more.
+
+	It has been translated into many languages and new translations are
+	submitted by our users all the time.  As of this writing the
+	included languages are English (the primary one), Spanish, French,
+	German, Italian, Japanese, Polish, Russian, and Chinese.
 
 #. **TokenTool** - digital gaming token creation tool
 
-	**TokenTool** is a simple graphical program for creating "tokens", digital versions of miniatures that can be used with **MapTool** or any other virtual tabletop application, such as **Roll20** and **d20Pro**.
+	**TokenTool** is a simple graphical program for creating "tokens",
+	digital versions of miniatures that can be used with **MapTool**
+	or any other virtual tabletop application, such as **Roll20** and
+	**d20Pro**.
 
 #. **CharacterTool** - character management tool
 
-	**CharTool** is a character management tool.  It will manage all aspects of character creation and advancement for those game systems which have a template available.  Seasoned users can create their own templates to add to the available game systems or create their own unique system.
+	**CharTool** is a character management tool.  It will manage all
+	aspects of character creation and advancement for those game systems
+	which have a template available.  Seasoned users can create their own
+	templates to add to the available game systems or create their
+	own unique system.
 
 #. **InitiativeTool** - initiative tracker (mostly for combat encounters)
 
-	**InitTool** will manage the turn-by-turn sequencing that many game systems use.  Characters can be created in **CharTool** and dragged into **InitTool** when needed.
+	**InitTool** will manage the turn-by-turn sequencing that many
+	game systems use.  Characters can be created in **CharTool** and
+	dragged into **InitTool** when needed.
 
 #. **DiceTool** - feature-rich dice-rolling application
 
-	**DiceTool** is a (not so) simple dice rolling application.  Users can develop their own custom dice rolling functions and implement any dice rolling scheme they can think up!  **DiceTool** comes preloaded with a variety of game systems already implemented.
+	**DiceTool** is a (not so) simple dice rolling application.  Users can
+	develop their own custom dice rolling functions and implement any dice
+	rolling scheme they can think up!  **DiceTool** comes preloaded with a
+	variety of game systems already implemented.
 
 ## Where to find more information
 
-One of our forum users, **brad**, has put together a series of a dozen or so short screencast videos.  They are categorized first by who is most likely to use them, players or the game master.  A second level of categorization involves functionality:  what do you want to do?  The videos are generally short, none are more than 8-9 minutes, and all are narrated so that each part of the graphical
+One of our forum users, **brad**, has put together a series of a
+dozen or so short screencast videos.  They are categorized first
+by who is most likely to use them, players or the game master.  A
+second level of categorization involves functionality:  what do you
+want to do?  The videos are generally short, none are more than 8-9
+minutes, and all are narrated so that each part of the graphical
 interface is explained.  You can find them on the
 [Tutorials](http://www.rptools.net/tutorials/) page on our
 main web site.
